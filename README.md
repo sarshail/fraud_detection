@@ -10,7 +10,7 @@ TASKS:
 
 a) For each user, determine her country based on the numeric IP address. 
 
-b) Build a model to predict whether an activity is fraudulent or not. Explain how different assumptions about the cost of false positives vs false negatives would impact the model. 
+b) Build a model to predict whether an activity is fraudulent or not.
 
 ## Data Description
 
